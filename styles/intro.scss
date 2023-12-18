@@ -47,6 +47,7 @@ section#intro img{
   max-width:300px;
   opacity: 0;
   transition: opacity .5s linear;
+  
 }
 section#intro.visible img{
   opacity: 1;

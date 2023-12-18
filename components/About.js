@@ -3,7 +3,8 @@ export default function About() {
     <section id="about">
       <div className="center">
         <h2>About</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad animi dolor eius explicabo in libero, maiores mollitia nesciunt, officia, praesentium quo suscipit vitae voluptas. Ad doloribus esse quas repudiandae voluptatem.</p>
+        <p>I'm a web developer and designer based out of Maryland, USA. I love building apps that solve real-world problems, and that are delightful to use. My specialities include TypeScript, React JS, Tailwind CSS, and Styled Components.
+Enthusiastic and adaptable individual with a background in healthcare, leveraging newly acquired front-end development skills. Eager to bring a unique blend of problem-solving, empathy, and precision to a Front-End Developer role.</p>
       </div>
     </section>
   );
