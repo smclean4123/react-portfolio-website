@@ -14,7 +14,7 @@ export default function Intro() {
         <a href="">Contact me</a>
       </div>
       <div>
-        <img src="/img/me.png" alt=""/>
+        <img src="/img/sm.jpg" alt=""/>
       </div>
     </section>
   );
