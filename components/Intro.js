@@ -10,7 +10,7 @@ export default function Intro() {
   return (
     <section id="intro" className={classes}>
       <div>
-        <p> <span>Stephen Mclean</span><br />Full-stack javascript developer.<br />I build exceptional and accessible digital experiences for the web.</p>
+        <p> <span>Stephen Mclean</span><br />Full-stack javascript engineer.<br />I build exceptional and accessible digital experiences for the web.</p>
         <a href="">Contact me</a>
       </div>
       <div>
